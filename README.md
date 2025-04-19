@@ -1,4 +1,3 @@
-# @here || NEW SCRIPT: Forsaken Hub
 -- Make sure you have an executor that supports the function: require(Module)
 
 # {{ FORSAKEN HUB || FEATURES:}}
