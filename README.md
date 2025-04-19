@@ -1,7 +1,7 @@
 -- Make sure you have an executor that supports the function: require(Module)
 
 # {{ FORSAKEN HUB || FEATURES:}}
-**- Infinite stamina (Makes it so you lose [ZERO] stamina)
+- Infinite stamina (Makes it so you lose [ZERO] stamina)
 - Disable D-M slowness (Makes it so you go slightly faster when moving to the left/right)
 - Set max stamina (You can set your stamina to any number you want, Default 115+)
 - Set stamina gain/s (How much stamina you want to gain per second, Default 20)
