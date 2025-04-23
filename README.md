@@ -1,4 +1,4 @@
--- Make sure you have an executor that supports the function: require(Module)
+-- Make sure you have an executor that supports the function: require()
 
 # {{ FORSAKEN HUB || FEATURES:}}
 - Infinite stamina (Makes it so you lose [ZERO] stamina)
@@ -12,7 +12,7 @@
 - Highlight items
 - Walking sprinting animation (Buggy, Makes it so it plays the running animation when you're walking (Drains your stamina so make sure you have infinite stamina enabled)
 - Show full chat (Forces the game to show the full chat so you can see every chat in lobby/game**
-  # AND MUCH MORE!
+  # AND MANY MORE!
 
 ## 🔌Shortened Script
 ```lua
