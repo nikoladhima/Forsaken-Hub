@@ -1,4 +1,4 @@
--- Make sure you have an executor that supports the function: require()
+**-- Make sure you have an executor that supports the function: require()**
 
 # {{ FORSAKEN HUB || FEATURES:}}
 - Infinite stamina (Makes it so you lose [ZERO] stamina)
